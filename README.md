@@ -54,13 +54,13 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://twitter.com/vkashegde">
+<a href="https://twitter.com/vkashegde" target="_blank">
   <img align="center" alt="Vikas Hegde | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/vkashegde">
+<a href="https://www.linkedin.com/in/vkashegde" target="_blank">
   <img align="center" alt="Vikas Hegde" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto:vkshegde11@gmail.com">
+<a href="mailto:vkshegde11@gmail.com" target="_blank">
   <img align="center" alt="Vikas Hedge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
 </a>
   </p>
