@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-<span align="center">
+<h3 align="center">
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <a href="https://twitter.com/vkashegde">
@@ -62,7 +62,7 @@
 <a href="mailto:vkshegde11@gmail.com">
   <img align="center" alt="Vikas Hedge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
 </a>
-</span>
+</h3>
 
 <br/>
 <span align="center">
@@ -76,6 +76,6 @@
 <br/>
 
 
-<span align="center">
+<h1 align="center">
 <img align="center" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
-</span>
+</h1>
