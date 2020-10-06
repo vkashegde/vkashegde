@@ -53,6 +53,7 @@
 <span align="center">
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="center">
 <a href="https://twitter.com/vkashegde">
   <img align="center" alt="Vikas Hegde | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -62,12 +63,13 @@
 <a href="mailto:vkshegde11@gmail.com">
   <img align="center" alt="Vikas Hedge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
 </a>
+  </p>
 </span>
 
 <br/>
-<span align="center">
+<p align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-</span>
+</p>
 
 ---
 
