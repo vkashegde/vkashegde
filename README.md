@@ -7,12 +7,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 🚀 &nbsp; Flutter Mobile Developer | Full-Stack MERN Developer
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Electronics Engineer by chance and programmer by choice .
-- 🌱 &nbsp; Self thought UI/UX Designer.
-- 💼 &nbsp; Working on my portfolio and hobby projects.
-- 🔭 &nbsp; Looking forward to learn React Native,Flutter and Dart
-- 📚 &nbsp; I’m currently mastering  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 &nbsp; I’m looking to collaborate on open source projects.
 
 <br/>
