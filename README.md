@@ -1,79 +1,77 @@
-<h1 align="center">Hi 👋, I'm Vikas</h1>
+<h1 align="center">Hi 👋, I'm coder grind</h1>
+<h3 align="center">Senior Full-Stack Developer | Mobile Engineer | Tech Geek ⚡</h3>
 
-<h3 align="center">Iam a Full Stack Web Developer || UI/UX Designer || App Developer</h3>
-<br/>
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🚀 &nbsp; Flutter Mobile Developer | Full-Stack MERN Developer
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 👯 &nbsp; I’m looking to collaborate on open source projects.
-
-<br/>
-<br/>
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-  ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-  ![Bulma](https://img.shields.io/badge/-Bulma-09a330?style=flat&logo=bulma&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-- 🌐 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-787878?style=flat)
-  ![Jquery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)
-  
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF)
-- ⚙️ &nbsp;
-  ![Git](http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF")
-  ![GitHub](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime](https://img.shields.io/badge/-Sublime-E34F26?style=flat&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-E34F26?style=flat&logo=figma&logoColor=white)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
-<br/>
-<br/>
-
-<span align="center">
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://twitter.com/vkashegde" target="_blank">
-  <img align="center" alt="Vikas Hegde | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vkashegde" target="_blank">
-  <img align="center" alt="Vikas Hegde" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:vkshegde11@gmail.com" target="_blank">
-  <img align="center" alt="Vikas Hedge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
-</a>
-  </p>
-</span>
-
-<br/>
-<p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+  <img src="https://komarev.com/ghpvc/?username=codergrind&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
 ---
 
-<br/>
-<h6 align="center">Check My Repositories if you like my work leave a <b>⭐️</b> https://github.com/vkashegde </h6>
-<br/>
+## 🚀 About Me
 
+- 🔭 I’m a **Senior Full-Stack & Flutter Developer** building real-world, scalable apps  
+- 💻 4+ years experience across **MERN**, **Flutter**, **Next.js**, **Supabase**, **Firebase**, **Node.js**  
+- 📱 Love crafting **beautiful UI**, **clean architecture**, and **high-performance systems**  
+- ⚙️ Tech geek obsessed with **DevTools, architecture, animations, system design**  
+- 🧠 Currently learning: **AI integrations, advanced system design, high-scale architecture**  
+- 🎮 Gamer + indie developer (building platformers & gameplay videos!)
 
-<h1 align="center">
-<img align="center" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
-</h1>
+---
+
+## 🧰 Tech Stack
+
+### 💻 **Frontend**
+- React · Next.js · TailwindCSS · Flutter · Angular Material  
+- State management: Redux, Bloc, Riverpod, Provider  
+
+### ⚙️ **Backend**
+- Node.js · Express.js · NestJS  
+- Supabase · Firebase · MongoDB · PostgreSQL  
+
+### 🧪 **Tools & DevOps**
+- Docker · GitHub Actions · Vercel · Render · CI/CD  
+- Figma · Postman · Rider · VS Code · Cursor AI  
+
+---
+
+## 🛠️ What I Build
+- 🔥 **Production-ready dashboards** (analytics, influencer marketing, admin systems)  
+- 💬 **Real-time chat apps** with Supabase/Firebase + WebSockets  
+- 📱 **Flutter apps with clean architecture** (Bloc, MVVM, Modularization)  
+- ⚡ **High-performance API systems** with caching, JWT auth, scalability  
+- 🧩 **AI-powered apps**: interview bots, companion apps, analytics engines  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codergrind&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergrind&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🧩 Fun Tech Geek Things
+
+- 🛰️ Obsessed with **system design diagrams**  
+- 👨‍💻 Lives inside **Cursor** and **VS Code**  
+- 🎮 Loves physics-based games & building small engines  
+- 💡 Constantly experimenting with **AI + apps + automation**
+
+---
+
+## 🔗 Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-black?logo=x&style=for-the-badge" /></a>
+<a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge" /></a>
+</p>
+
+---
+
+## 🧠 Quote I Live By
+> *"Build fast, break less, scale smart."*  
+> — coder grind
+
