@@ -10,11 +10,11 @@
 ## 🚀 About Me
 
 - 🔭 I’m a **Senior Full-Stack & Flutter Developer** building real-world, scalable apps  
-- 💻 4+ years experience across **MERN**, **Flutter**, **Next.js**, **Supabase**, **Firebase**, **Node.js**  
+- 💻 5+ years experience across **MERN**, **Flutter**, **Next.js**, **Supabase**, **Firebase**, **Node.js**  
 - 📱 Love crafting **beautiful UI**, **clean architecture**, and **high-performance systems**  
 - ⚙️ Tech geek obsessed with **DevTools, architecture, animations, system design**  
 - 🧠 Currently learning: **AI integrations, advanced system design, high-scale architecture**  
-- 🎮 Gamer + indie developer (building platformers & gameplay videos!)
+- 🎮 Gamer + indie developer
 
 ---
 
