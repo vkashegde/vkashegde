@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm coder grind</h1>
+<h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">Senior Full-Stack Developer | Mobile Engineer | Tech Geek ⚡</h3>
 
 <p align="center">
